@@ -57,9 +57,7 @@ Here you will learn all the basics to get you started with the web course.
 1. Click the URL of the homework assignment
 2. GitHub will create a repo for you and give you the URL, you can copy it here, directly
 3. Clone the repo as above, copy the URL from GitHub, in cmder navigate to `C:/siit` and type `git clone <paste-the-url>`
-4. `git switch -c work` (create a new branch you will work on and switch to it immediately)
-5. `git push -u origin work` (sync the new branch to the remote)
-6. Do your stuff, work like crazy (in VS Code :))
+4. Do your stuff, work like crazy (in VS Code :))
 
 Do the following as often as possible, preferably every time before you take a break:
 
@@ -69,9 +67,3 @@ Do the following as often as possible, preferably every time before you take a b
 Do the following at least every day, you can do it as often as the above two points:
 
 1. `git push`
-
-When your homework is done, open a pull request:
-
-1. Go to GitHub, find the repo you were
-2. Click `Pull Requests`
-3.
