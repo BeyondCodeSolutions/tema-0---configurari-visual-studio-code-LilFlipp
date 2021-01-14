@@ -76,3 +76,4 @@ When your homework is done, open a pull request:
 2. Click `Pull Requests`
 3. O linie in plus
 4. Ceva also
+5. Sum more
